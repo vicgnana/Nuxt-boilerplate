@@ -1,0 +1,40 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "E-commerce",
+  "author": "Vicky",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "slicemachine": "start-slicemachine"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/dotenv": "^1.4.0",
+    "@nuxtjs/prismic": "^1.4.0",
+    "@nuxtjs/pwa": "^3.0.0-0",
+    "@prismicio/slice-simulator-vue": "^0.2.0",
+    "cookie-universal-nuxt": "^2.1.5",
+    "locomotive-scroll": "^4.1.2",
+    "lodash": "^4.17.21",
+    "nuxt": "^2.0.0",
+    "nuxt-gsap-module": "^1.5.0",
+    "nuxt-sm": "^0.1.0",
+    "virtual-scroll": "^2.1.1",
+    "vue-slicezone": "^0.1.0"
+  },
+  "devDependencies": {
+    "@nuxt/bridge": "npm:@nuxt/bridge-edge@^3.0.0-27234175.2fb58ae",
+    "babel-eslint": "^10.0.1",
+    "eslint-plugin-nuxt": ">=0.4.2",
+    "nevo": "^2.1.0",
+    "sass": "^1.42.1",
+    "sass-loader": "^10.2.0",
+    "slice-machine-ui": "^0.2.0",
+    "vue-loader": "15.9.6"
+  }
+}
