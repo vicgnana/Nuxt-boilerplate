@@ -1,7 +1,7 @@
 {
-  "name": "ecommerce",
+  "name": "Boilerplate",
   "version": "1.0.0",
-  "description": "E-commerce",
+  "description": "Boilerplate",
   "author": "Vicky",
   "private": true,
   "scripts": {
