@@ -1,6 +1,6 @@
-# ecommerce
+# Nuxt Boilerplate
 
-> E-commerce
+> Nuxt Boilerplate
 
 ## Build Setup
 
